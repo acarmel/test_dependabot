@@ -5,7 +5,7 @@ aws-sam-translator==1.25.0
 astroid==2.4.2
 bandit==1.6.2
 black==19.10b0
-botocore==1.17.33
+botocore==1.18.2
 cfn-lint==0.34.0
 coverage==5.2.1
 freezegun==0.3.15
