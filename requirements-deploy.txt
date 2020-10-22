@@ -1,4 +1,4 @@
 aws-encryption-sdk==1.4.1
-awscli==1.18.110
+awscli==1.18.162
 boto3==1.14.33
 git+https://github.com/Lightricks/lt-backend-common.git@1.7.7
