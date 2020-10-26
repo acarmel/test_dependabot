@@ -8,7 +8,7 @@ git+https://github.com/Lightricks/fortress-python-sdk@0.2.0
 git+https://github.com/Lightricks/lt-backend-common.git@1.7.7
 git+https://github.com/Lightricks/lt-dynamodb-utils.git@1.6.3
 Jinja2==2.11.2
-lumigo_tracer==1.1.101
+lumigo_tracer==1.1.130
 python-dateutil==2.8.1
 python-jose==3.2.0
 python-json-logger==0.1.11
